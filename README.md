@@ -42,13 +42,31 @@ lib/            Business logic and Supabase utilities
 
 ## Screenshots
 
-> Dashboard
+## 📸 Screenshots
 
-> Inventory Management
+### 🔐 Authentication
+![Login](assets/login.png)
 
-> Sales Management
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
 
-> Reports
+### 💰 Sales
+![Sales](assets/sales.png)
+
+### 📦 Products
+![Products](assets/products.png)
+
+### 📉 Inventory
+![Inventory](assets/inventory.png)
+
+### 👥 Customers
+![Customers](assets/customers.png)
+
+### 🚚 Suppliers
+![Suppliers](assets/suppliers.png)
+
+### 🧑‍💼 Employees
+![Employees](assets/employees.png)
 
 
 ---
