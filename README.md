@@ -81,6 +81,4 @@ lib/            Business logic and Supabase utilities
 
 ---
 
-## Author
-
 Developed as a portfolio project demonstrating full-stack application development using Next.js and Supabase.
