@@ -2,7 +2,6 @@
 
 A modern cloud-based spare parts management system built with **Next.js** and **Supabase**. PartFlow replaces spreadsheets and manual record-keeping with a centralized platform for managing inventory, sales, customers, suppliers, employees, and business reporting.
 
----
 
 ## Features
 
@@ -15,7 +14,6 @@ A modern cloud-based spare parts management system built with **Next.js** and **
 * Interactive dashboard with business analytics
 * Audit logging and activity tracking
 
----
 
 ## Tech Stack
 
@@ -28,7 +26,6 @@ A modern cloud-based spare parts management system built with **Next.js** and **
 * **Icons:** Lucide React
 * **Package Manager:** pnpm
 
----
 
 ## Project Structure
 
@@ -38,9 +35,6 @@ components/     Shared UI components
 lib/            Business logic and Supabase utilities
 ```
 
----
-
-## Screenshots
 
 ## 📸 Screenshots
 
@@ -69,8 +63,6 @@ lib/            Business logic and Supabase utilities
 ![Employees](assets/employees.png)
 
 
----
-
 ## Future Improvements
 
 * Barcode scanning support
@@ -79,6 +71,5 @@ lib/            Business logic and Supabase utilities
 * Email notifications
 * Advanced reporting and exports
 
----
 
 Developed as a portfolio project demonstrating full-stack application development using Next.js and Supabase.
